@@ -1,5 +1,11 @@
 # Flight Price Analysis & Feature Engineering
 
+## Key Highlights
+- Cleaned and transformed 10K+ flight records
+- Performed feature engineering on date and time variables
+- Converted categorical features using One Hot Encoding
+- Identified key pricing factors like stops, airline, and timing
+
 ## Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) and Feature Engineering on a flight price dataset to identify key factors influencing ticket prices.
 
